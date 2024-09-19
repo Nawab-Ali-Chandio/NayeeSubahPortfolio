@@ -33,7 +33,7 @@ const Header = () => {
     return (
 
         <header>
-            <h1>Raza Hussain</h1>
+            <h1>Nawab Ali</h1>
 
             <div className='navitems'>
                 {headerData.map((item, index) => {
