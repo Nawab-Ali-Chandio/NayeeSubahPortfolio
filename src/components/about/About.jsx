@@ -1,7 +1,7 @@
 import React from 'react'
 import './about.css'
 import { FiFile } from 'react-icons/fi'
-import aboutSectionImage from '../../websitedesignimages/MyPicture.jpeg'
+import aboutSectionImage from '../../websitedesignimages/nawab1.jpeg'
 import { BiBadge, BiHeadphone } from 'react-icons/bi'
 import { BsBag } from 'react-icons/bs'
 import Buttons from '../Buttons'
@@ -63,7 +63,7 @@ const About = () => {
           </div>
 
           <p className='about-section-bottom-right-middle'>
-          I am Raza Hussain, an experienced front-end developer with a strong background in building responsive and visually engaging web applications. I specialize in translating complex design ideas into functional, user-friendly interfaces using modern technologies. My focus is on delivering high-quality, scalable solutions that enhance user experience.
+          I am Nawab Ali, an experienced front-end developer with a strong background in building responsive and visually engaging web applications. I specialize in translating complex design ideas into functional, user-friendly interfaces using modern technologies. My focus is on delivering high-quality, scalable solutions that enhance user experience.
           </p>
 
           {/* <div className='herosection-name-container-button'>

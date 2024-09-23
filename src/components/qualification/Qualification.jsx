@@ -27,12 +27,7 @@ const Qualification = () => {
                     educationDuration: '2021 - 2023',
                     leftSide: false,
                 },
-                {
-                    educationName: 'DHA Suffa University',
-                    educationLocation: 'Karachi - University',
-                    educationDuration: '2023 - Present',
-                    leftSide: true,
-                },
+              
             ],
         },
         {

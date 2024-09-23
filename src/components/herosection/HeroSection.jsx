@@ -6,7 +6,7 @@ import { FaTwitter } from "react-icons/fa6";
 import { GiHand } from "react-icons/gi";
 import { FaTelegramPlane } from "react-icons/fa";
 
-import picture from '../../websitedesignimages/heropicture1.jpeg'
+import picture from '../../websitedesignimages/nawab3.jpeg'
 import Buttons from '../Buttons';
 
 
@@ -53,7 +53,7 @@ const HeroSection = () => {
         <div className='herosection-name-container-top'>
 
           <div className='name-part'>
-           <h1>Raza Hussain</h1>
+           <h1>Nawab Ali</h1>
             <span><GiHand /></span>
           </div>
 

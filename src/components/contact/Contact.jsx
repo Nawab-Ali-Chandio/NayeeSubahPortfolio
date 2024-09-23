@@ -23,21 +23,21 @@ const Contact = () => {
           <div className="contact-item">
             <FaEnvelope className="contact-icon" />
             <div className="contact-details">
-              <a href="mailto:razahussainkandhro260@gmail.com">razahussainkandhro260@gmail.com</a>
+              <a href="mailto:chandionawabaileee@gmail.com">chandionawabaileee@gmail.com</a>
               <p>Write me <FaArrowRight className="arrow-icon" /></p>
             </div>
           </div>
           <div className="contact-item">
             <FaWhatsapp className="contact-icon" />
             <div className="contact-details">
-              <a href="https://wa.me/+923223633568" target="_blank" rel="noopener noreferrer">+92 322 3633568</a>
+              <a href="https://wa.me/+923093060106" target="_blank" rel="noopener noreferrer">+92 309 3060106</a>
               <p>Write me <FaArrowRight className="arrow-icon" /></p>
             </div>
           </div>
           <div className="contact-item">
             <FaFacebookMessenger className="contact-icon" />
             <div className="contact-details">
-              <a href="https://m.me/razahussainkandhro" target="_blank" rel="noopener noreferrer">Raza Hussain Kandhro</a>
+              <a href="https://m.me/razahussainkandhro" target="_blank" rel="noopener noreferrer">Nawab Ali Chandio</a>
               <p>Write me <FaArrowRight className="arrow-icon" /></p>
             </div>
           </div>
